@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "A minimalist Pomodoro timer application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
